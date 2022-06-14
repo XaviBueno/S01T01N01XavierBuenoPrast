@@ -16,7 +16,7 @@ public class AppInstrument {
 
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		
 		InstrumentVent instrument1 =new InstrumentVent("Flauta",1000);
 		InstrumentCorda instrument2 =new InstrumentCorda("Guitarra",1500);
