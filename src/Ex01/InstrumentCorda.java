@@ -11,6 +11,7 @@ public class InstrumentCorda extends Instrument {
 	}
 	
 	//metode sobreescrit
+	@Override
 	public   String tocar(){
 		return super.tocar()+ "corda";
 	}

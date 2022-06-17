@@ -13,6 +13,7 @@ public class InstrumentVent extends Instrument{
 	}
 	
 	//Métode
+	@Override
 	public  String tocar(){
 		
 		return super.tocar()+ "vent";

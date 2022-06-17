@@ -10,6 +10,7 @@ public class InstrumentPercussio extends Instrument {
 	}
 	
 	//Metode
+	@Override
 	public   String tocar(){
 		return super.tocar()+ "percussió";
 	}
